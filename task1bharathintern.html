@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Content Management</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Create a Blog Post</h1>
+        <form id="blog-form">
+            <label for="title">Title:</label>
+            <input type="text" id="title" name="title" required>
+            
+            <label for="content">Content:</label>
+            <textarea id="content" name="content" required></textarea>
+            <label for="image">Image URL:</label>
+            <input type="text" id="image" name="image"><BR><BR>
+            
+            <label for="video">Video URL:</label>
+            <input type="text" id="video" name="video">
+            
+            <button type="submit">Create Post</button>
+        </form>
+    </div>
+    <div class="result">
+        <!-- Display blog posts here -->
+    </div>
+    <script src="app1.js"></script>
+</body>
+</html>

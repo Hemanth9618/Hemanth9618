@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Hemanth9618
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack java
-- 💞️ I’m looking to collaborate on bharat intern
-- 📫 How to reach me https://in.linkedin.com/in/guntuboina-siva-hemanth-993a761a4
+Content Management Tool :
+You can use the full stack development items drag-and-drop interfaces to create a web page that helps you add text, images, videos, and other elements required to create a blog.
+
 
 <!---
 Hemanth9618/Hemanth9618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
